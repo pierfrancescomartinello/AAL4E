@@ -87,14 +87,20 @@ The code of the program itself and its running file is divived into states, rema
 In this deadline there were a list of ideas and features that were supposed to work at the end of the 200 hours period of the stage, in which this work was made. Here, the list of the major ideas and their current state <br>
 |Feature| State |Comment|
 | :---: | :---: | :---: |
-|Face Recognition|🟢 | |
-|Emotion Recognition| 🟢| |
-|Emotion Storing|🟢||
-|Input Relative Tags|🟡|Problems with database storing made impossible to retrieve the infos about the tags. The developer is confident to fix it in a future release,|
-|Requests to an Online Image Library | 🟡|The requests work, but there are problems on the visualization. The developer is confident to fix it in a future release.|
-|Requests to an Online Video Library|🟡|The requests work, but there are problems on the visualization. The developer is confident to fix it in a future release.|
-|Requests to an Online Audio Library|🔴|An adapt library is yet to be found. The developer is confident to found it in a future release.|
+|Face Recognition|🟢 | Completed on par with the schedule|
+|Emotion Recognition| 🟢| Completed on par with the schedule|
+|Emotion Storing|🟢|Completed on par with the schedule|
+|Input Relative Tags|🟡|Problems with database storing made impossible to retrieve the infos about the tags.|
+|Requests to an Online Image Library | 🟡|The requests work, but there are problems on the visualization.+|
+|Requests to an Online Video Library|🟡|The requests work, but there are problems on the visualization.|
+|Requests to an Online Audio Library|🔴|An adapt library is yet to be found.|
 ---
+
+|Colour| Meaning|
+| :---: | :---: |
+|🟢| Done|
+|🟡|Incomplete/To be ultimated|
+|🔴| To be considered for a future release|
 
 ## Installation Guide
 In order to obtain the code you need to run the following script:

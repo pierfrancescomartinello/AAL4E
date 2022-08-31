@@ -1,4 +1,5 @@
 # AFERS - Autonomous Face and Emotion Recognition System
+Update coming soon
 
 This project wants to create a system usable on Structures for Elderly Care in order to track the assisted emotions in a span of time. It has been developed by [Pierfrancesco Martinello](https://github.com/pierfrancescomartinello) as a stage project.
 
